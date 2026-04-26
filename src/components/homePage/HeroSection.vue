@@ -10,15 +10,16 @@
   <!-- Hero Content Card -->
   <div class="relative z-10 text-white px-4 md:px-8 max-w-3xl text-center backdrop-blur-md bg-white/10 rounded-xl shadow-xl py-12">
     <h1 class="text-4xl md:text-5xl font-extrabold leading-tight mb-4">
-      Brighten Your World with Elegant Lighting
+      Best Lighting Services in Sikar | City Lights Sikar
     </h1>
 
     <p class="text-lg md:text-xl mb-6 text-gray-200">
-     Brighten your home with premium lighting — stylish, affordable, and made for Indian homes.
+      We provide premium wedding lighting in Sikar, event decoration in Sikar,
+      LED lights, chandeliers, and complete lighting solutions for homes and events.
     </p>
 
     <h2 class="text-xl md:text-2xl font-semibold mb-6">
-      Only 3 Steps Away From Your Dream Look
+      Trusted Lighting & Wedding Decoration Services in Sikar Rajasthan
     </h2>
 
     <button
@@ -28,6 +29,15 @@
     </button>
   </div>
 </section> 
+
+<section class="py-10 px-6 text-center">
+  <h2 class="text-2xl font-bold mb-4">Lighting Experts in Sikar</h2>
+  <p>
+    City Lights Sikar provides the best lighting services for weddings,
+    parties, and events. We offer LED lighting, decorative lights,
+    and complete event setup across Sikar Rajasthan.
+  </p>
+</section>
 
        <!-- <section class="bg-cover relative h-screen" :style="{ backgroundImage: `url(${bgImage})`}">
           
